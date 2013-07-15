@@ -1,3 +1,6 @@
+# NOTE: Disabled
+This clickstart has been disabled due to changes in the facebook api (if anyone wants to update it - go ahead!)
+
 # Facebook Template with Hibernate for CloudBees.
 
 <a href="https://grandcentral.cloudbees.com/?CB_clickstart=https://raw.github.com/CloudBees-community/facebook_template/master/clickstart.json"><img src="https://d3ko533tu1ozfq.cloudfront.net/clickstart/deployInstantly.png"/></a>
